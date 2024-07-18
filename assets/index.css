@@ -1,0 +1,59 @@
+body {
+    background-color: #1e62a5c3;
+}
+
+h2 {
+    color: #dfedfa;
+}
+
+.table {
+    background-color: #ffffff;
+}
+
+.table-striped tbody tr:nth-of-type(odd) {
+    background-color: #f2f2f2;
+}
+
+.table-bordered {
+    border: 1px solid #dee2e6;
+}
+
+.table th, .table td {
+    padding: 12px;
+    text-align: center;
+}
+
+.table th {
+    background-color: #1676d5;
+    color: #ffffff;
+}
+
+.navbar-brand img {
+    height: 40px; /* Ajustez la hauteur du logo selon vos besoins */
+    background-color: #d3d3d3;
+}
+
+.navbar-brand {
+    font-weight: bold;
+    color: #337cc5;
+}
+
+.navbar-nav .nav-link {
+    margin-right: 15px;
+}
+
+.navbar-nav .btn {
+    margin-left: 10px;
+    background-color: #ffa2a2;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: #ffffff;
+}
+
+.navbar-dark .navbar-nav .nav-link:hover {
+    color: #d3d3d3;
+}
+li{
+    color: #ffa2a2;
+}
